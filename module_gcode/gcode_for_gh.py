@@ -93,7 +93,7 @@ class Gcode_for_GH():
 
         print("Count : {}".format(count))
         
-        return [x, y, z]
+        return x, y, z
 
 
     def zip_matrix(self, mat):
