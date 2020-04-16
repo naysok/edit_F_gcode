@@ -15,5 +15,5 @@ count = (7, 4)
 ### Analysis
 #aa.analysis_element(path_src)
 
-### edit gcode
+### Edit GCode, duplicete
 oo.duplicate_path(path_src, count, off_vector)
