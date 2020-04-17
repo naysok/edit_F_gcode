@@ -6,11 +6,11 @@ oo = operate_string.Operate_String()
 
 path_src = "./data/gcode_original/face3_3_F.txt"
 
-off_vector = (225, 300)
-count = (7, 4)
+off_vector = (200, 230)
+count = (2, 2)
 
 ##### canvas_size = (1700, 1300)
-##### max_count = (7, 4)
+##### max_count = (8, 5)
 
 ### Analysis
 #aa.analysis_element(path_src)
